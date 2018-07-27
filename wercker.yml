@@ -1,0 +1,12 @@
+box: ubuntu
+
+build:
+  steps:
+    - script:
+      code: sleep 120
+
+test:
+  steps:
+    - script:
+      code: sleep 120
+
